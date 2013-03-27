@@ -1,0 +1,17 @@
+{
+  "name": "node-svg",
+  "version": "0.1.0",
+  "engines": [
+    "node >= 0.8.1"
+  ],
+  "main": "app.js",
+  "private": true,
+  "description": "Ready for use mvc express3 nodejs architecture (nodejs, express3, mongodb, everyauth)",
+  "author": "Physalix (http://github.com/physalix)",
+  "dependencies": {
+    "node-raphael": "~0.1.7"
+  },
+  "bundleDependencies": [
+    "date-utils"
+  ]
+}
